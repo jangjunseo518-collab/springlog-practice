@@ -1,0 +1,8 @@
+Spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sprintlog_practice_dve
+    username: jangjunseo
+    password: postgres
+  jpa:
+    hibernate:
+      ddl-auto: create

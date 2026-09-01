@@ -1,4 +1,4 @@
-package com.sprintlogpractice.sprintlog_boot;
+package com.sprintlogpractice.sprintlogboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
